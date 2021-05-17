@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @puneetsran
+- 👀 I’m interested in Data Scient
