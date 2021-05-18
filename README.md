@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Puneet
-- 👀 I’m interested in Data Scient
+- 👀 I’m interested in Data Science
