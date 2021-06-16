@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Puneet
 - 👀 I’m interested in Data Science
+- View my resume here: https://resume.creddle.io/resume/3emxsjx4jsp
