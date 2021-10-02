@@ -1,4 +1,1 @@
 - 👋 Hi, I’m Puneet
-- 👀 I’m interested in Data Science
-- View my resume here: https://resume.creddle.io/resume/3emxsjx4jsp
-- View my public Tableau here: https://public.tableau.com/profile/puneet.sran
